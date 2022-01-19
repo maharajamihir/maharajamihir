@@ -2,6 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=mahrajamihir&color=blue)
 
+📫 How to reach me:
+
 <a target="_blank" href="www.linkedin.com/in/mahajanmihir/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
