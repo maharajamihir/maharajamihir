@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=mahrajamihir&color=blue)
+
+<a target="_blank" href="www.linkedin.com/in/mahajanmihir/" target="_blank">
+<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a target="_blank" href="mailto:mihir.mahajan2002@gmail.com" target="_blank">
+<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
+
 <!--
 **maharajamihir/maharajamihir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
