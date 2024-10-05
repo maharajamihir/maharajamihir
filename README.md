@@ -12,6 +12,9 @@
 <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a target="_blank" href="https://x.com/maharajamihir" target="_blank">
+<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/maharajamihir">
+</a>
 
 
 <!--
